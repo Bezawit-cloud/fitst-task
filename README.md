@@ -1,1 +1,1 @@
-# fitst-task
+# first-task
